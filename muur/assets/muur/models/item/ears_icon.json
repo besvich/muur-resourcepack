@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "muur:item/ears_fur",
+    "layer1": "muur:item/ears_pink"
+  }
+}

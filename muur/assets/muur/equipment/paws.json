@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "muur:paws",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      },
+      {
+        "texture": "muur:paws_overlay"
+      }
+    ]
+  }
+}

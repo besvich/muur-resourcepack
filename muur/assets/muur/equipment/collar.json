@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "muur:collar",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      },
+      {
+        "texture": "muur:collar_overlay"
+      }
+    ]
+  }
+}
